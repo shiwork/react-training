@@ -1,3 +1,4 @@
+```
 brew install npm
 npm install -g react-tools
 jsx --watch GettingStarted/src/ react/build/
@@ -7,4 +8,4 @@ cd {$ROOT}
 http-server ./ -p 8000
 
 open http://localhost:8000/GettingStarted/helloworld.html on your browser.
-
+```
