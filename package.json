@@ -1,0 +1,23 @@
+{
+  "name": "react-training",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shiwork/react-training.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shiwork/react-training/issues"
+  },
+  "homepage": "https://github.com/shiwork/react-training",
+  "dependencies": {
+    "http-server": "^0.7.4",
+    "react-tools": "^0.12.2"
+  }
+}
